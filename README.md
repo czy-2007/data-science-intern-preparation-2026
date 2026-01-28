@@ -8,13 +8,8 @@ My learning journey for data science internship. Includes SQL, Python, data anal
 - 专业：数据科学与大数据技术
 - 年级：大二
 - 目标：2026年暑假找到数据分析实习
-### 当前学习阶段
-**第1周：SQL强化训练（1月16日-1月22日）**
-- 每日完成牛客网SQL练习题
-- 掌握基础查询、JOIN、分组聚合
-- 代码上传至本仓库week1文件夹
 ### 联系方式
 - GitHub: [CZY-2007](https://github.com/CZY-2007)
 - 邮箱：2960684510@qq.com
 ---
-*仓库创建于2026年1月16日*
+*仓库创建于2026年1月28日*
